@@ -1,6 +1,6 @@
 import View from './View';
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
+
 
 class PreviewView extends View {
   _parentElement = '';
