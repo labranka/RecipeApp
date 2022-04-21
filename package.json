@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist --no-scope-hoist  --no-optimize"
+    "build": "parcel build index.html --dist-dir $folders_plugin_dist --no-scope-hoist --no-optimize"
   },
   "author": "Branka Lakicevic",
   "license": "ISC",
