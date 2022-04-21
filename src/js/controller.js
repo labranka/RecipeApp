@@ -6,7 +6,7 @@ import resultsView from './views/resultsView.js';
 import bookmarksView from './views/bookmarksView.js';
 import paginationView from './views/paginationView.js';
 import addRecipeView from './views/addRecipeView.js';
-
+console.log('Izmenila');
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
